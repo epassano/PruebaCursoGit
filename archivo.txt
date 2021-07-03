@@ -1,1 +1,3 @@
-Hola mundo otra vez desde visual code
+<<<<<<< HEAD
+Hola mundo otra vez desde visual code y github 
+
